@@ -9,7 +9,7 @@ A fully functional interactive comments section built with vanilla HTML, CSS, an
 
 ## 📸 Preview
 
-![Desktop Preview](preview.jpg)
+![Desktop Preview](preview.png)
 
 ## ✨ Features
 
